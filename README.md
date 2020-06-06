@@ -1,0 +1,2 @@
+# install_18.04_lot_on_beagleboneblue
+在beagleboneblue上安装ubuntu18.04
